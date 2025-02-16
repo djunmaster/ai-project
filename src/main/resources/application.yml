@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+ai:
+  deepseek:
+    api-key: sk-a8358dceb49f4cdfaafb63846b7f9d1f
+  ollama:
+    api-host: http://localhost:11434
